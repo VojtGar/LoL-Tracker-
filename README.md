@@ -1,5 +1,5 @@
 # LoL-Tracker
-#Informační systém pro hráče League of Legends
+# Informační systém pro hráče League of Legends
 
 ## Krátký popis
 Webová aplikace pro sledování vlastních her, statistik, postav a sestav šampionů.  
